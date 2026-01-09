@@ -1,9 +1,9 @@
 {
-  "name": "rules-learning-pipeline",
+  "name": "binaryPets",
   "description": "A marketplace for the rules-learning-pipeline plugin",
   "owner": {
-    "name": "anouar1991",
-    "email": "anouar@example.com"
+    "name": "Noreddine Belhadj Cheikh",
+    "email": "noreddine.belhadjcheikh@gmail.com"
   },
   "plugins": [
     {
@@ -11,8 +11,8 @@
       "description": "Automated learning pipeline that evaluates model sessions, extracts lessons, detects wasteful patterns, and optimizes CLAUDE.md rules",
       "version": "1.0.0",
       "author": {
-        "name": "Noreddine",
-        "email": "noreddine@example.com"
+        "name": "Noreddine Belhadj Cheikh",
+        "email": "noreddine.belhadjcheikh@gmail.com"
       },
       "source": ".",
       "category": "development"
