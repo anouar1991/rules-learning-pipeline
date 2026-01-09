@@ -1,0 +1,12 @@
+{
+  "name": "Rules Learning Pipeline",
+  "description": "A marketplace for the rules-learning-pipeline plugin",
+  "plugins": [
+    {
+      "name": "rules-learning-pipeline",
+      "description": "Automated learning pipeline that evaluates model sessions, extracts lessons, detects wasteful patterns, and optimizes CLAUDE.md rules",
+      "version": "1.0.0",
+      "path": "."
+    }
+  ]
+}
